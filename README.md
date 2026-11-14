@@ -1,4 +1,7 @@
 # Garuda CRT Community
+# Garuda CRT Community
+
+![Garuda CRT with Sweet colors and CRT effects](screenshot.png)
 
 A Sweet-inspired color preset for Cool Retro Term, paired with interactive Fish and the original CRT glow, curvature, noise, and motion effects.
 
