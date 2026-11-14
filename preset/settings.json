@@ -1,0 +1,11 @@
+{
+  "fontScaling": 0.6,
+  "windowScaling": 1,
+  "effectsFrameSkip": 3,
+  "bloomQuality": 0.5,
+  "burnInQuality": 0.5,
+  "showTerminalSize": true,
+  "showMenubar": false,
+  "useCustomCommand": true,
+  "customCommand": "/usr/bin/fish -i"
+}

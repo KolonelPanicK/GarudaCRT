@@ -1,0 +1,3 @@
+cool-retro-term 2.0.0beta2-1
+qmltermwidget 2.0.0.git1-1
+fish 4.9.3-1
